@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": "2",
-      "title": "My 2nd Post",
-      "body": "the body post #2",
+      "title": "My 2nd Post Edited",
+      "body": "the body post #2, yeah!!!",
       "createdAt": "12-12-2019"
     },
     {
@@ -17,6 +17,18 @@
       "title": "My 4th Post",
       "body": "the body post #4",
       "createdAt": "1-11-2020"
+    },
+    {
+      "title": "Hi, this is a new post",
+      "body": "Welcome to my post and many more posts",
+      "createdAt": "2020-11-25",
+      "id": "QSRfm3w"
+    },
+    {
+      "title": "Other Affiliates 2018",
+      "body": "My startup",
+      "createdAt": "2020-11-18",
+      "id": "ifwzCMP"
     }
   ],
   "users": [

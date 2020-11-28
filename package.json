@@ -18,7 +18,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "server": "json-server --watch db.json --middlewares ./range.js --port 5000",
+    "server": "json-server --watch db.json --port 5000 --middlewares ./range.js ",
     "dev": "concurrently \"npm run server\" \"npm start\"",
     "start": "react-scripts start",
     "build": "react-scripts build",

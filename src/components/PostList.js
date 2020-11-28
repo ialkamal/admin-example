@@ -11,7 +11,7 @@ import {
 const PostList = (props) => {
   return (
     <List {...props}>
-      <Datagrid>
+      <Datagrid rowClick="edit">
         <TextField source="id" />
         <TextField source="title" />
         <DateField source="createdAt" />
